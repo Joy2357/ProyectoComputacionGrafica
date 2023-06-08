@@ -1,0 +1,14 @@
+# Blender MTL File: 'mono.blend'
+# Material Count: 1
+
+newmtl Spider_Monkey
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Bump 12958_Spider_MonkeyNormal Bump.jpg
+map_Kd 12958_Spider_Monkey_diff.jpg

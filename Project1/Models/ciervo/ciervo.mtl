@@ -1,0 +1,71 @@
+newmtl node_id5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 11986898.00
+newmtl node_id34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 9.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 11.png
+Ns 11986898.00
+newmtl node_id39SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 11986898.00
+newmtl node_id44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 11986898.00
+newmtl node_id49SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 21.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 23.png
+Ns 11986898.00
+newmtl node_id54SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 25.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 11986898.00
+newmtl node_id59SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 11986898.00
+newmtl node_id64SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 33.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 11986898.00
